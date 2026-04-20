@@ -1,0 +1,178 @@
+# Git
+.git
+.gitignore
+.gitattributes
+.github/workflows/*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv
+pip-log.txt
+pip-delete-this-directory.txt
+.venv/
+
+# IDE and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+.project
+.pydevproject
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# Testing
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+htmlcov/
+
+# Documentation
+docs/_build/
+site/
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+sms_database_np.db
+
+# Logs
+*.log
+bot.log
+logs/
+
+# OS specific
+.DS_Store
+Thumbs.db
+.AppleDouble
+.LSOverride
+._*
+
+# Configuration files (private)
+config.json
+.env
+.env.local
+.env.*.local
+.env.production.local
+
+# Temporary files
+*.tmp
+*.temp
+tmp/
+temp/
+*.bak
+*.swp
+
+# Backup files
+*.backup
+*.old
+
+# Node modules (if any JavaScript tools used)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Docker
+docker-compose.override.yml
+.dockerignore
+
+# CI/CD
+.travis.yml
+.gitlab-ci.yml
+azure-pipelines.yml
+
+# Package files
+dist/
+build/
+*.egg
+
+# Virtual environment script files
+bin/
+Scripts/
+
+# OS temp files
+.tmp/
+*.tmp
+*.bak~
+
+# IDE temp files
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# DVC
+.dvc
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre
+.pyre/
+
+# Private keys and secrets
+*.pem
+*.key
+*.env.secrets
+secrets.json
+
+# OTP Store (sensitive)
+otp_store.json
+
+# Dex file
+dex.txt
+
+# OS files to ignore
+.AppleDouble
+.LSOverride
+._*
+.apdisk

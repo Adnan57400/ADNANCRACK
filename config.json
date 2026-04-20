@@ -1,0 +1,22 @@
+{
+  "BOT_TOKEN": "7952943119:AAFGuZiurY4yiaTCPwkrmsH51EUayr_DUFU",
+  "BOT_USERNAME": "CrackSMSReBot",
+  "ADMIN_IDS": [7763727542, 7057157722, 7968271742, 7831921606, 8222195948],
+  "SUPPORT_USER": "@ownersigma",
+  "DEVELOPER": "@NONEXPERTCODER",
+  "OTP_GROUP_LINK": "https://t.me/crackotpgroup",
+  "GET_NUMBER_URL": "https://t.me/CrackSMSReBot",
+  "NUMBER_BOT_LINK": "https://t.me/CrackSMSReBot",
+  "CHANNEL_LINK": "https://t.me/crackotp",
+  "default_limit": 5,
+  "IS_CHILD_BOT": false,
+  "OTP_GUI_THEME": 0,
+  "AUTO_BROADCAST_ON": true,
+  "REQUIRED_CHATS": [
+    {
+      "type": "channel",
+      "link": "https://t.me/crackotp",
+      "title": "CRACK SMS Bot Channel"
+    }
+  ]
+}
